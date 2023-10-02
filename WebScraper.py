@@ -1,3 +1,5 @@
+#pip install newsapi
+
 import requests
 import sys
 from newsapi import NewsApiClient
